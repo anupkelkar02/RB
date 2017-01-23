@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790998142720",
+    "firebase_url": "https://reshimbandh-68326.firebaseio.com",
+    "project_id": "reshimbandh-68326",
+    "storage_bucket": "reshimbandh-68326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790998142720:android:6af74b4af20fece9",
+        "android_client_info": {
+          "package_name": "com.example.mypc.reshimbandh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790998142720-uc68m8no6k8nv7jrr1cgdjpicck4jlm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypc.reshimbandh",
+            "certificate_hash": "2A1B2EAB6BDFF23C1593256F59D76FA9F8C6160D"
+          }
+        },
+        {
+          "client_id": "790998142720-9fqohi66lc50sqt3sno7i7mn13mb6bb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMG5FHM_3oqEYj1yxDJ0M-OGkQk0GpaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790998142720-9fqohi66lc50sqt3sno7i7mn13mb6bb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

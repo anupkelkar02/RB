@@ -1,0 +1,123 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.example.mypc.reshimbandh.Fragments.LoginFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_margin="@dimen/size_30"
+        android:layout_gravity="center"
+
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_weight="0"
+            android:layout_margin="0dp"
+            android:src="@drawable/logo"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/string_username"
+            android:textColor="@color/colorGray"
+            android:textSize="@dimen/size_15"
+            android:layout_marginTop="@dimen/size_40"
+            />
+        <EditText
+            android:id="@+id/user_login_username"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_30"
+            android:background="@null"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorGray"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/string_password"
+                android:textColor="@color/colorGray"
+                android:textSize="@dimen/size_15"
+                android:layout_marginTop="@dimen/size_10"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <EditText
+                    android:id="@+id/user_login_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/size_30"
+                    android:layout_weight="0.2"
+                    android:inputType="textPassword"
+                    android:background="@null"
+                    />
+
+                <TextView
+                    android:id="@+id/user_login_forgot"
+                    android:text="forgot password"
+                    android:textColor="@color/colorDark"
+                    android:layout_width="113dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorGray"/>
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/signinbutton"
+           android:layout_marginTop="20dp"
+            />
+        <TableRow android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="right"
+                android:textColor="@color/colorGray"
+                android:text="DON'T HAVE ACCOUNT?"
+                />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/user_login_signup"
+                android:text="@string/string_register"
+                android:textColor="@color/colorDark"
+                />
+        </TableRow>
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>

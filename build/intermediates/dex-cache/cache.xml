@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_9a7fd700f166ce7dfca63b0bf545ecbed8ac81d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c3fe9a885b71c5bd71f1573c6e7dac57aa1cf28">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b95e95da2bb0128052543e0445eb882285a17a75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_ef1573aa73abf5ffd1b0d357322bd35fe0ca82c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b2cd15ba5f41e35f41d7fab4d22098f3cbc2a9a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.pkmmte.view\circularimageview\1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pkmmte.view-circularimageview-1.1_b7036e84cea24f0c1bc31176c5bf352516216082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_ee4cf4e70db058a57fd5f6a5655d6a7437a12937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a372e7c5823bd59194d3e61accb49cdc5bc7d34">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7fb6c276404052084b7d833b5cc262980e7417c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_2db0d05d7bd015c4e65948e3c9857f63b84eafdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_35ab282224a35278f9ef56ee95ad6f26085d7747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_09c41beb96d638240b457f938769b01bbc3845bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_62f609dca3898f012af2deafe1a3f56b3d27cb35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_0707e6e16589a0e5ff41101e47f8e43ffb22a3e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\my pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_ea70473ac6c5afbe58f4ccccc8e4b39e9e6d1b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_17796b52cb2fc5411616c6f11be280d2df504f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\my pc\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_82c45b779682fac7f7e30f899f8959a436a0b06c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_8c1e865fc257ce69ff20f916a111f73795d1dcf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Android\androidProjects\ReshimBandh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_4ad2d8f1f7b0c676eeaddd3812839c81d834d30a\classes.dex" />
+    </item>
+
+</items>

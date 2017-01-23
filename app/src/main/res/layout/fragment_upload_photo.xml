@@ -1,0 +1,92 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mypc.reshimbandh.Fragments.UploadPhotoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+           <ImageView
+               android:layout_width="match_parent"
+               android:layout_height="300dp"
+               android:src="@drawable/profile_image"
+               />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_100"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_100"
+                android:src="@drawable/profile_image"
+                android:layout_margin="@dimen/size_2"
+                />
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_100"
+                android:src="@drawable/profile_image"
+                android:layout_margin="@dimen/size_2"
+                />
+
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_100"
+                android:src="@drawable/profile_image"
+                android:layout_margin="@dimen/size_2"
+                />
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_100"
+                android:src="@drawable/profile_image"
+                android:layout_margin="@dimen/size_2"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_100"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_50"
+                android:src="@drawable/ic_add_black"
+
+                />
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_50"
+                android:src="@drawable/ic_add_black"
+
+                />
+
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_50"
+                android:src="@drawable/ic_add_black"
+
+                />
+            <ImageView
+                android:layout_width="@dimen/size_100"
+                android:layout_height="@dimen/size_50"
+                android:src="@drawable/ic_add_black"
+
+                />
+        </LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mypc.reshimbandh.Fragments.ActivateRegistrationFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/string_long_text" />
+    <Button
+        android:id="@+id/btn_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorDark"
+        android:text="Home"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="@dimen/size_10"
+        />
+</LinearLayout>
+</FrameLayout>

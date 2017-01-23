@@ -1,0 +1,283 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.example.mypc.reshimbandh.Fragments.StepOneRegFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:background="@color/colorDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/navigation_first"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_margin="@dimen/size_20"
+                >
+                <!-- First name-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_firstname"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:id="@+id/edit_reg_step1_firstname"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+                <!-- First name-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_mname"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:id="@+id/edit_reg_step1_middlename"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <!-- Last name-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_lastname"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:id="@+id/edit_reg_step1_lastname"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_gender"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <Spinner
+                    android:id="@+id/register_gender_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_dob"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:id="@+id/edit_reg_step1_dob"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    android:inputType="date"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_height"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <Spinner
+                    android:id="@+id/spinner_reg_step1_height"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_contact_no"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:id="@+id/edit_reg_step1_contact_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    android:inputType="number"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <!-- Eamil-->
+                <TextView
+                    android:id="@+id/edit_reg_step1_eamil"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_email"
+                    android:inputType="textEmailAddress"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+                <!-- Eamil-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_parent_living_city"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <Spinner
+                    android:id="@+id/spinner_reg_step1_p_live_city"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_know_about"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <Spinner
+                    android:id="@+id/spinner_reg_step1_know_abt"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_password"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/string_confirm_password"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edit_text_height"
+                    android:background="@null"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorGray"/>
+
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="@string/string_know_captcha"-->
+                    <!--android:layout_marginTop="@dimen/size_10"-->
+                    <!--/>-->
+                <!--<TableRow android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content">-->
+                    <!--<EditText-->
+                        <!--android:layout_width="0dp"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:layout_height="@dimen/edit_text_height"-->
+                        <!--android:background="@null"-->
+                        <!--/>-->
+                    <!--<ImageView-->
+                        <!--android:layout_width="0dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:src="@drawable/captcha"-->
+
+                        <!--/>-->
+
+                <!--</TableRow>-->
+
+                <!--<View-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="1dp"-->
+                    <!--android:background="@color/colorGray"/>-->
+
+
+                <Button
+                    android:id="@+id/btn_stepone_next"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorDark"
+                    android:text="Next"
+                    android:textColor="@color/colorWhite"
+                    android:layout_marginTop="@dimen/size_10"
+                    />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/size_50"
+                    />
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</FrameLayout>

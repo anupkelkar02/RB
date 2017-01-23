@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">ReshimBandh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_login">Sign in </string>
+    <string name="string_register">SIGN UP </string>
+
+    <!-- TODO: Login page -->
+    <string name="string_username">Username</string>
+    <string name="string_password">Password</string>
+
+    <!-- TODO: Registration Page -->
+    <string name="string_firstname">First Name</string>
+    <string name="string_mname">Middle name</string>
+    <string name="string_lastname">Lastname</string>
+    <string name="string_email">Eamil</string>
+    <string name="string_confirm_password">Confirm Password</string>
+    <string name="string_phone_number">Phone Number</string>
+    <string name="string_dob">Date of Birth</string>
+    <string name="string_cast">Caste</string>
+    <string name="string_subcast">Sub Caste</string>
+    <string name="string_religion">Religion</string>
+    <string name="string_gender">Gender</string>
+    <string name="string_gender_male">Male</string>
+    <string name="string_gender_female">Female</string>
+    <string name="string_old_password">Old Password</string>
+    <string name="string_height">Height</string>
+    <string name="string_contact_no">Contact NO.</string>
+    <string name="string_parent_living_city">Parent Living city</string>
+    <string name="string_know_about">I came to know about RESHIM-BANDH from </string>
+    <string name="string_know_captcha">CAPTCHA  </string>
+    <string name="string_monthly_income">Monthly income </string>
+    <string name="string_mother_tongue">Mother tongue </string>
+    <string name="string_marital_status">Marital Status </string>
+    <string name="string_occupation">Occupation </string>
+    <string name="string_physical_dis">Physical Disability </string>
+    <string name="string_working_city">Candidate working city </string>
+    <string name="string_qual1">Qualification 1 </string>
+    <string name="string_qual2">Qualification 2 </string>
+    <string name="string_degree">Degree year college </string>
+    <string name="string_university">University remarks </string>
+    <string name="string_min_height">Minimum height </string>
+    <string name="string_max_height">Maximum height </string>
+    <string name="string_min_age_diff">Minimum Age Difference </string>
+    <string name="string_max_age_diff">Maximum Age Difference </string>
+
+    <!--pop up text -->
+    <string name="pop_btn_1">Click here to view match list</string>
+    <string name="pop_btn_2">How to Activate your registation</string>
+    <!-- menu -->
+    <string name="string_menu_my_mateches">My Matches</string>
+    <string name="string_menu_mail_box">Mail Box</string>
+    <string name="string_menu_daily_recom">Daily Recommendations</string>
+    <string name="string_menu_edit_profile">Edit Profile</string>
+    <string name="string_menu_feedback">Feedback</string>
+    <string name="string_menu_setting">Setting</string>
+    <string name="string_menu_logout">Logout</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="string_menu_pay_fee">How To Pay Registration Fee</string>
+    <string name="string_menu_upload_photo">Upload photo</string>
+    <string name="string_menu_search">Search</string>
+    <string name="string_menu_match_list">View Match List </string>
+    <string name="string_menu_interest_received">Interest Received </string>
+    <string name="string_menu_interest_sent">Interest Sent </string>
+    <string name="string_menu_iregister_sms">Register Number for SMS </string>
+    <string name="string_menu_online_payment">Online Payment </string>
+    <string name="string_menu_change_password">Change Password</string>
+    <string name="string_menu_change_membership">Cancel Membership</string>
+
+    <!-- profile page-->
+    <string name="string_name">Name</string>
+    <string name="string_long_text">desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+
+
+</resources>
